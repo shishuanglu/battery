@@ -1,0 +1,7 @@
+display.c:24:6:set_next_page	16	static
+display.c:29:14:get_cur_page	4	static
+display.c:39:6:page_init_display	16	static
+display.c:52:6:page_volt_display	16	static
+display.c:69:6:page_volt_warning_display	4	static
+display.c:81:6:page_switch_update	8	static
+display.c:116:6:page_init	8	static

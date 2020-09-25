@@ -1,0 +1,4 @@
+Config.c:49:6:system_init	8	static
+Config.c:68:13:device_init	8	static
+Config.c:82:13:driver_init	8	static
+Config.c:88:13:port_init	4	static
